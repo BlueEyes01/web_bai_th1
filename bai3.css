@@ -1,0 +1,59 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#name
+{
+    padding: 5px 10px 5px ;
+    width: 320px;
+    margin-top: 15px;
+}
+#email
+{
+    margin-left: 45px;
+    padding: 5px 10px 5px ;
+    width: 320px;
+}
+#subject 
+{   
+    margin-left: auto;  margin-right: auto;
+    display: block;
+    padding: 5px 10px 5px ;
+    width: 690px;
+    margin-top: 15px;
+}
+#message
+{
+    height: 200px;
+    width: 690px;
+    margin-top: 15px;
+
+}
+#submit
+{
+    margin-top: 15px;
+}
+p
+{   
+    display: inline;
+    margin-top: 15px;
+    padding-left: 315px;
+}
+
+
+.t1
+{
+    display: block;
+   text-align: center;
+}
+.container 
+{
+   text-align: center;
+}
+h2
+{
+    text-align: left;
+}
