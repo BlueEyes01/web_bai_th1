@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.left
+{   
+    float: left;
+    border :4px solid #cacaca;
+}
+.right
+{   
+    float: left;
+    margin-left: 40px ;
+    margin-top: 10px;
+    width: 70%;
+}
+.container
+{
+
+}
+
