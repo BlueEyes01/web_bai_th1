@@ -12,7 +12,7 @@
     margin-top: 15px;
 }
 #email
-{
+{   
     margin-left: 45px;
     padding: 5px 10px 5px ;
     width: 320px;
@@ -27,33 +27,34 @@
 }
 #message
 {
-    height: 200px;
-    width: 690px;
     margin-top: 15px;
 
 }
 #submit
 {
-    margin-top: 15px;
+    margin-top: 5px;
 }
 p
 {   
     display: inline;
-    margin-top: 15px;
-    padding-left: 315px;
+    margin-top: 5px;
+    padding-left: 275px;
 }
 
-
-.t1
-{
-    display: block;
-   text-align: center;
-}
 .container 
 {
-   text-align: center;
+    display: block;
+    margin-left: auto;  margin-right: auto;
+   width: 690px;
+  
 }
-h2
+#submit
 {
-    text-align: left;
+    border-style: solid ;
+    border-radius: 3px;
+    background-color: #7dcefd;
+    font-size: 15px;
+    color: #fff;
+    border-color: #66b5e3;
+    padding: 10px 15px;
 }
