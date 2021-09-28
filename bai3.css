@@ -3,6 +3,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+h2
+{
+   
+    font-size: 17px;
 }
 
 #name
@@ -36,13 +42,13 @@
 }
 p
 {   
-    display: inline;
     margin-top: 5px;
-    padding-left: 275px;
+    float: right;
 }
 
 .container 
-{
+{   
+    margin-top: 50px;
     display: block;
     margin-left: auto;  margin-right: auto;
    width: 690px;
