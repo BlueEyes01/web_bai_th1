@@ -132,7 +132,7 @@ a
     content: "";
     height: 2px;
     background: rgba(168, 166, 166,0.5);
-    width: 120px;
+    width: 100px;
     position: absolute;
     bottom: 11px;
     right: 50px;
@@ -141,7 +141,7 @@ a
     content: "";
     height: 2px;
     background: rgba(168, 166, 166,0.5);
-    width: 120px;
+    width: 100px;
     position: absolute;
     bottom: 11px;
     left: 50px;
